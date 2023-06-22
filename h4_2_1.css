@@ -1,0 +1,59 @@
+h1 {
+    background: red;
+}
+
+h2 {
+    background-position: 2.5cqb;
+    background-color: brown;
+    color: chartreuse;
+}
+
+h3 {
+    background-size: 1.2cm;
+    background-color:black;
+    color: azure;
+}
+
+h4 {
+    background-size: 1.2cm;
+    background-color:black;
+    color: azure;
+}
+
+h5 {
+    background-size: 2.2cm;
+    background-color:black;
+    color: pink;
+}
+
+h6 {
+    background-size: 0.9cm;
+    background-color:azure;
+    color: blue;
+}
+
+
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: chartreuse;
+}
+
+.paragraph-2 {
+    background: yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+
+}
+
+.paragraph-3 {
+    background: orangered;
+    box-shadow: 2.5cm;
+    color: black;
+    font-size: 64pt;
+    border-color: brown;
+}
